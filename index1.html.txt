@@ -1,0 +1,871 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Request for Assistance in Addressing Illicit Experimentation in Medical Universities</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+
+
+<main>
+  
+  <div class="tabs">
+    <a href="#tab1" class="tab-link active" data-tab="tab1">Request for help!</a>
+    <a href="#tab2" class="tab-link" data-tab="tab2">Human Experimentation</a>
+    <a href="#tab3" class="tab-link" data-tab="tab3">Neurorights</a>
+    <a href="#tab4" class="tab-link" data-tab="tab4">Brain Computer Interfaces</a>
+    <a href="#tab5" class="tab-link" data-tab="tab5">Microchips</a>
+    <a href="#tab6" class="tab-link" data-tab="tab6">To Victims</a>
+    <a href="#tab7" class="tab-link" data-tab="tab7">How to detect a microchip</a>
+    <a href="#tab8" class="tab-link" data-tab="tab8">Prawo</a>
+    <a href="#tab9" class="tab-link" data-tab="tab9">Publikacje</a>
+    <a href="#tab10" class="tab-link" data-tab="tab10">O blogu</a>
+  </div>
+
+ <div class="tab-contents">
+ <div class="tab-content active" id="tab1"><p>Cel bloga...</p>
+
+  <!-- Header -->
+  <h1><i class="fas fa-brain"></i> Support for Victims of Predictive Microimplant Technology</h1>
+  <p class="intro">
+    Collecting evidence and connecting specialists worldwide so that victims can receive protection and assistance.
+  </p>
+
+  <!-- Section 1: Problem -->
+  <section class="problem">
+    <h2><i class="fas fa-exclamation-triangle"></i> What is the problem?</h2>
+    <p>
+      Some technologies allow <strong>secret manipulation of memories and emotions</strong> through microimplants in the brain.
+      These systems operate in a <strong>closed-loop mode</strong> – implants send data to the cloud, where
+      <strong>predictive algorithms</strong> (LSTM, RNN, CNN, and others) decode hippocampal activity and can deliver stimulation on demand,
+      influencing memory and emotional responses.
+    </p>
+    <p>
+      This technology, in scientific literature, is known as <strong>Ca²⁺ imaging</strong>, enabled by modern methods such as:
+      <ul>
+        <li><strong>NIRS (Near-Infrared Spectroscopy)</strong> – measures neuron activity via light signal changes</li>
+        <li><strong>Doppler Focused Ultrasound</strong> – precise stimulation and readout of signals in specific brain regions</li>
+      </ul>
+    </p>
+    <p>
+      The implant is a microscopic chip that transmits data to the cloud, allowing remote control in a feedback loop.
+      <strong>From a technological standpoint, it is potentially possible to build such systems</strong> using current or near-future
+      methods of neural recording and stimulation. This does not mean that any specific implementation has been independently verified,
+      but the principles are within the realm of modern neuroscience and engineering.
+    </p>
+    <p>
+      <strong>Unfortunately, many of these experiments are conducted illegally</strong> – in some psychiatric clinics and medical
+      university settings worldwide, often without full patient consent. Victims often do not know how to seek help and are treated
+      as mentally ill.
+    </p>
+  </section>
+
+  <!-- Section 2: Why Help -->
+  <section class="help">
+    <h2><i class="fas fa-hands-helping"></i> Why We Need Your Help</h2>
+    <p>
+      To gather <strong>evidence for local prosecutors and human rights organizations</strong>, measurements and observations are essential:
+      <ul>
+        <li>Electromagnetic and NIR/ultrasound studies</li>
+        <li>Monitoring brain activity in controlled environments (e.g., Faraday cages or shielded safe zones)</li>
+      </ul>
+      Without these data, victims remain defenseless, and the practice is international and difficult to prove.
+    </p>
+  </section>
+
+  <!-- Section 3: How to Help -->
+  <section class="action">
+    <h2><i class="fas fa-hands"></i> How You Can Help Right Now</h2>
+<div class="columns">
+      <!-- For Victims -->
+<div class="column">
+        <h3><i class="fas fa-user"></i> If You Are a Victim</h3>
+        <ol>
+          <li>Fill out an <strong>anonymous reporting form</strong></li>
+          <li>Record your observations and any medical examinations</li>
+          <li>Contact a support group – you are not alone</li>
+        </ol>
+        <button class="btn">Report Anonymously</button>
+</div>
+      <!-- For Specialists -->
+<div class="column">
+        <h3><i class="fas fa-user-tie"></i> If You Are a Specialist</h3>
+        <ul>
+          <li>Journalists, private investigators, radiotechnicians, electronics experts – perform preliminary measurements and provide evidence</li>
+          <li>Human rights organizations – support reporting cases and protecting victims</li>
+          <li>Neuroscientists, neuroethicists – detailed technical sections on Ca²⁺ imaging will be added later</li>
+        </ul>
+        <button class="btn">Volunteer to Help</button>
+</div>
+</div>
+  </section>
+
+  <!-- Section 4: Contact -->
+  <section class="contact">
+    <h2><i class="fas fa-envelope"></i> Contact and Support</h2>
+    <p>
+      Anonymous contact email: [provide email]<br>
+      Links to support groups and human rights organizations.<br>
+      FAQ: “Can I remain anonymous?” – Yes, all reports are anonymous.
+    </p>
+  </section>
+</div>
+
+<!-- Optional: add CSS in your style.css or inside a <style> tag -->
+<style>
+  .tab-content h1 { text-align: center; font-size: 2em; margin-bottom: 15px; }
+  .tab-content h2 { color: #0056b3; margin-top: 25px; }
+  .tab-content h3 { color: #003366; margin-top: 15px; }
+  .tab-content p, .tab-content li { font-size: 1em; line-height: 1.5; }
+  .columns { display: flex; flex-wrap: wrap; gap: 20px; margin-top: 15px; }
+  .column { flex: 1; min-width: 250px; background: #f5f5f5; padding: 15px; border-radius: 8px; }
+  .btn { background: #0056b3; color: white; border: none; padding: 10px 15px; border-radius: 5px; cursor: pointer; margin-top: 10px; }
+  .btn:hover { background: #003366; }
+  i { margin-right: 8px; color: #ff6600; }
+</style>
+
+<!-- Font Awesome -->
+<script src="https://kit.fontawesome.com/a076d05399.js" crossorigin="anonymous"></script>
+
+
+
+
+
+</div>
+
+
+
+
+</div>
+
+
+
+
+
+
+
+
+
+<div class="tab-content" id="tab2"><p>Human Experimentation</p>
+
+
+<section class="text_section">
+	    		<h1><i class="fas fa-brain"></i> Request for Assistance</h1>
+    			<p><strong>Contact:</strong> karolinariddle2@gmail.com</p>
+    		<p><a href="https://www.worldbrainmapping.org/" target="_blank">World Brain Mapping Organization</a></p>
+
+    		<h2><i class="fas fa-exclamation-triangle"></i> The Issue</h2>
+    		<p>
+      The problem involves <strong>illicit experimentation in psychiatric clinics at medical universities worldwide</strong>. 
+      These experiments are often disguised as "neurofeedback training" but rely on nanotechnology to manipulate human behavior.
+      Evidence suggests that the <strong>World Brain Mapping Organization (WBMO)</strong> is connected to these projects.
+    		</p>
+    		<p>
+      Tiny neuro-engineering nanobots and microchips can be implanted without surgery, sometimes using only skin sensors. These devices
+      can potentially control brain activity and emotional responses, targeting areas like the hippocampus.
+    		</p>
+
+    		<h2><i class="fas fa-user-secret"></i> My Experience</h2>
+    		<p>
+      I have personally been a victim of this illegal experimentation, and I know that many others are suffering silently. The individuals
+      behind these experiments are confident they can evade detection, making it crucial to gather evidence.
+    		</p>
+
+    		<h2><i class="fas fa-hands-helping"></i> Why Help is Needed</h2>
+    		<p>
+      Gathering evidence is critical to exposing these practices and holding perpetrators accountable. Victims are threatened with psychological
+      torture and brain manipulation. By collecting data, we can support victims and inform authorities.
+    		</p>
+
+    		<h2><i class="fas fa-cogs"></i> How Technology is Used</h2>
+    		<p>
+      The experiments rely on advanced technologies like <strong>Ca²⁺ imaging, NIRS, and Doppler Focused Ultrasound</strong>. Implants transmit
+      data to the cloud, where predictive algorithms (LSTM, RNN, CNN) decode neural activity and deliver closed-loop stimulation.
+    		</p>
+
+    		<h2><i class="fas fa-link"></i> References</h2>
+    		<ul>
+      		<li><a href="https://www.worldbrainmapping.org/relatedpublications/neurophotonics-and-brain-mapping-textbook/" target="_blank">Neurophotonics and Brain Mapping Textbook</a></li>
+      		<li><a href="https://www.worldbrainmapping.org/relatedpublications/nanoneuroscience-and-nanoneurosurgery-textbook/" target="_blank">Nanoneuroscience and Nanoneurosurgery Textbook</a></li>
+      		<li><a href="https://medcraveonline.com/IPMRJ/the-nanomafia-nanotechnology39s-global-network-of-organized-crime.html" target="_blank">The Nanomafia: Global Network of Organized Crime</a></li>
+      		<li><a href="https://ndupress.ndu.edu/Portals/68/Documents/prism/prism_8-3/prism_8-3_DeFranco-DiEuliis-Giordano_48-63.pdf" target="_blank">Redefining Neuroweapons – Emerging Capabilities</a></li>
+      		<li><a href="https://worldbrainmapping.site-ym.com/event/main-attendee" target="_blank">WBMO Events</a></li>
+    		</ul>
+
+    		<h2><i class="fas fa-bullhorn"></i> Call to Action</h2>
+    		<p>
+      If you have expertise, connections, or resources to help gather evidence, your assistance is urgently needed. Victims cannot defend
+      themselves and are often disbelieved or labeled as mentally ill. Collecting verified data is the first ste..............
+
+
+ 		<p><h1><strong>"Redefining Neuroweapons Emerging Capabilities in Neuroscience  and Neurotechnology"</h1></strong></p>
+                <a href="https://ndupress.ndu.edu/Portals/68/Documents/prism/prism_8-3/prism_8-3_DeFranco-DiEuliis-Giordano_48-63.pdf">https://ndupress.ndu.edu/Portals/68/Documents/prism/prism_8-3/prism_8-3_DeFranco-DiEuliis-Giordano_48-63.pdf</a>
+
+                <p></p>
+                <p>"<strong>As global conflicts assume increasingly asymmetric and “gray zone” forms, the ability to employ
+                    current and newly developing techniques and tools of neurocognitive science to manipulate human thought and behavior must be viewed
+                    as a present and increasing challenge.</strong>[1] Ongoing developments in neuroscience and technology (neuroS/T), which trend 
+                    toward 5- to 10-year trajectories of progression, make the brain sciences valid, viable"</p>
+
+                <p>"In the former sense, neuroS/T research and development can be utilized to exercise socio-economic power in global markets,
+                    while in the latter sense, neuroS/T can be employed to augment friendly forces’ capabilities or to denigrate the cognitive,
+                    emotive, and/or behavioral abilities of hostiles"</p>
+                <p>"While many types of weaponizable neuroS/T (for example, chemicals, biological agents, and toxins) have been addressed
+                    in and by extant forums, treaties, conventions, and laws, other newer techniques and technologies have not.[4 ]
+                    Thus, particular advances in neuroS/T have an increased potential for dual use"</p>
+                <p>The U.S. National Center for Biotechnology Information website was created in 1998, and it remains one of the largest resources
+                   for biological information, being continuously updated by the U.S. National Institutes of Health (..)”</p>
+
+                <p>"As digitization and automation become more available, continue to advance, and are further integrated into various laboratories
+                    and medical centers, the procurement of and access to biodata will greatly simplify several dimensions and domains of biomedical research.
+                    Many countries have overtly—or more surreptitiously—begun to collect and utilize data to foster biotechnological innovation"</p>
+
+                <p>"The concurrent collection of genetic and environmental/behavioral data can be essential to acquiring considerable knowledge about
+                    diverse aspects of human terrain.[38] "</p>
+
+                <p>"[2 ]Previously we have analyzed the unique risks associated with biodata along a continuum of harms from individual privacy,
+                    to physical harm to individuals and groups—and we have highlighted the cyberbiosecurity risks specific to these domains.[43]
+                    Here, we direct a similar examination by identifying the subset of biodata obtained from and operationalized within neuroS/T.
+                    We believe this subset represents a specialized landscape of vulnerabilities unlike any other in the cyberbiosecurity arena,
+                    as it could impact human mental health, cognitive states, emotional states, decisionmaking, and behavior. Such ability to
+                    coerce or otherwise control human beings via access to neurobiological manipulation is profound in both WINS and sociopolitical
+                    contexts. We envision two possible vectors of threat/ harm: (1) the manipulation of neurodata in order to incur a direct/indirect
+                    effect on the way an individual or group is regarded and/or treated; and (2) the access and use of neurodata to design a precision
+                    effect on an individual or a group (see Figure 1). "</p>
+
+                <p>"We consider these potential dual uses of neurodata to be a first but significant step in a pathway intended to produce neuropsychiatric
+                    threat and harm."</p>
+                <p>"Without proper surveillance and international cooperation, there is opportunity to bypass the BTWC, CWC, and other international
+                    regulations through (1) various types of commercial veiling strategies; (2)<strong>venture capitalist financing of “do-it-yourself”/biohacker
+                    scientists to conduct neuroS/T research for malevolent purposes</strong>" </p>
+
+                <p>“Such ability to coerce or otherwise control human beings via access to neurobiological manipulation is profound in both WINS and
+                    sociopolitical contexts. We envision two possible vectors of threat/ harm: (1) the manipulation of neurodata in order to incur 
+                    a direct/indirect effect on the way an individual or group is regarded and/or treated; and (2) the access and use of neurodata to
+                    design a precision effect on an individual or a group (see Figure 1). “</p>
+
+          
+                <a href="https://worldbrainmapping.site-ym.com/event/main-attendee">https://worldbrainmapping.site-ym.com/event/main-attendee</a>
+ 
+
+
+
+
+
+
+
+
+           
+                
+                <p><strong><h1>The nanomafia: nanotechnology's global network of organized crime</strong></h1></p>
+                <a href="https://medcraveonline.com/IPMRJ/the-nanomafia-nanotechnology39s-global-network-of-organized-crime.html">						https://medcraveonline.com/IPMRJ/the-nanomafia-nanotechnology39s-global-network-of-organized-crime.html</a>
+                <p></p>
+                
+                <p>Recent researches reveal evidences that the technological transnational companies,
+                   in illicit association with USA, European Community and China governments and the corrupt 
+                 Latin American governments, have created an organization that is developing mainly in Latin America a secret, 
+                 <strong>forced and illicit neuroscientific human experimentation with invasive neurotechnology, brain nanobots,
+                 microchips and implants to execute neuroscientific projects,2–5 </strong> which can have even led scientists to win 
+                     Medicine Nobel Prizes6 based on this illicit human experimentation at the expense of Latin Americans' health.
+
+                 The main potential harmful effects caused by this illicit human experimentation with nanobots in society include:
+
+                 Mind control,7,8 memory deletion, torture, permanent espionage, theft of private information, extortion, sterilization, 
+                 psychiatric disorders, suicide, and digital slavery.6</p>
+                <p>The actions of this nanotechnology mafia are facilitated because nanobots can be administered in foods and drinks, 
+                  being one of the main ones the alcohol drinks like beer since it depresses the individual's central nervous system 
+                  and he loses his self-control and therefore, it facilitates mind control by others via brain nanobots; 
+                  for this reason, the beer is ideal to administer brain nanobots.</p>
+                <p>The illicit nanotechnology has also allowed appearing a new kind of criminals, operators that could be called “nano-hired killers"
+                   or “nano-torturers”, those responsible for the "dirty work" of nanomafia, group mainly conformed by journalists, university students
+                <p>who would be responsible for performing several works including: selection of the victim, to choose “the person of interest”, 
+                   person who can contribute with some benefit to the nanomafia; intoxication of the victim with nanobots through food, drinks or pills
+                   or his/her kidnapping to install them brain implants; editing, selection and commercialization of mind videos obtained with
+                   the daily espionage using the Brain net, mind torture, victim torture disclosing his/her privacy information and espionage of dreams;
+                   obtaining information from the dreams with the Brain net for extortion; creation of pseudo-diseases blocking the function of organs
+                   by telemetry to then extort the victim with "the cure".</p>
+                <p>It is necessary to emphasize that the criminal activity of this nanomafia, “the ghost mafia”, “the wifi mafia”, must be known
+                   by the society in all areas because it can affect any society sector and for the power of its weapons like the Brain net. 
+                   The magnitude of this mafia can only be compared to that of drug trafficking. There actually are many similarities between the drug
+                   trafficking and this “nanotrafficking” organized by nanomafias, although the main crime element is different, in the former it is
+                   the coca leaf and in the latter it is the brain nanobot, both can damage the mental health,</p>
+                <p></p>
+                <p><strong>If the victim of tortures by wifi reports it, he/she can be unjustifiably considered as a person with psychiatric problems
+                 or a slanderer, for that reason, the crime uses wifi as secret torture weapon</strong></p>
+                <p></p>
+
+
+
+
+
+
+</div>
+    
+
+
+
+
+
+
+
+
+
+<div class="tab-content" id="tab3">
+
+
+
+
+<section class="report-section">
+    <h1>United Nations – Report of the Special Rapporteur on Torture (2020)</h1>
+    <p class="highlight">
+        "Given the rapid advances in medical, pharmaceutical, and neurotechnological science, as well as in cybernetics, robotics and AI, it is difficult to predict
+        to what extent future techniques and environments of torture, as well as the “human enhancement” of potential victims and perpetrators, may allow the subjective 
+        experience of pain and suffering to be circumvented, suppressed or otherwise manipulated while still achieving the profoundly dehumanizing effects of torture."
+    </p>
+</section>
+
+<section class="article-section">
+    <h2>Freedom of Thought in the Age of Neuroscience</h2>
+    <p><em>Christoph Bublitz, University of Hamburg</em></p>
+    <a href="https://www.researchgate.net/publication/363748084_Freedom_of_Thought_in_the_Age_of_Neuroscience_A_Plea_and_a_Proposal_for_the_Renaissance_of_a_Forgotten_Fundamental_Right" target="_blank">Read full article</a>
+    <p>"In light of the absolute protection of freedom of thought, various novel means to directly intervene into brains and minds of persons and to change thoughts quite directly seem even more worrisome."</p>
+    <p>"Whoever possesses control of the stimulator directly controls central elements of the affected person’s mind. Legal regulations must take note of freedom of thought."</p>
+    <p>"Others discuss interventions that erase or tamper with memories (engrams). Memories are thoughts with a special content, hence interventions that manipulate memory manipulate thoughts."</p>
+</section>
+
+<section class="article-section">
+    <h2>Big Brain Data: On the Responsible Use of Brain Data (2018)</h2>
+    <p><em>Philipp Kellmeyer</em></p>
+    <a href="https://link.springer.com/article/10.1007/s12152-018-9371-x" target="_blank">Read full article</a>
+    <p>"Real-time interaction between users and neurotechnological devices may affect autonomy, sense of agency and decision-making, especially in closed-loop AI systems."</p>
+    <p>"Advanced ML can decode neural states and potentially interfere with brain activity. This raises concerns regarding mental privacy and the right not to disclose thoughts."</p>
+</section>
+
+<section class="article-section">
+    <h2>Emerging Human Rights in the Age of Neurotechnology (2017)</h2>
+    <p><em>Marcello Ienca, Roberto Andorno, University of Basel</em></p>
+    <a href="https://lsspjournal.biomedcentral.com/articles/10.1186/s40504-017-0050-1" target="_blank">Read full article</a>
+    <p>"Neurotechnologies open unprecedented possibilities for accessing, collecting, sharing and manipulating information from the human brain."</p>
+    <p>"New rights may be needed: cognitive liberty, mental privacy, mental integrity, and psychological continuity."</p>
+    <p>"Cognitive liberty protects both the right to alter one’s mental states and to refuse coercive use of neurotechnology."</p>
+</section>
+
+<section class="article-section">
+    <h2>Neuroprivacy, Neurosecurity, and Brain-Hacking (2015)</h2>
+    <p><em>Marcello Ienca, University of Basel</em></p>
+    <a href="https://www.researchgate.net/profile/Marcello-Ienca/publication/303974201_Neuroprivacy_neurosecurity_and_brain-hacking_Emerging_issues_in_neural_engineering/links/57611f2a08ae244d037252f3/Neuroprivacy-neurosecurity-and-brain-hacking-Emerging-issues-in-neural-engineering.pdf" target="_blank">Read full article</a>
+    <p>"Brain-hacking and unauthorized access to neural data can threaten autonomy, mental privacy, and personal identity."</p>
+    <p class="highlight">"The possibility of extracting private and sensitive information from the brain represents a serious threat to civil liberties."</p>
+</section>
+
+<section class="article-section">
+    <h2>Forensic Brain-Reading and Mental Privacy (2020)</h2>
+    <a href="https://pubmed.ncbi.nlm.nih.gov/35186162/" target="_blank">Read full article</a>
+    <p>"Being spied on through mind-reading reduces autonomy in the Kantian sense, limiting self-imposition of norms free from external pressures."</p>
+</section>
+
+<section class="article-section">
+    <h2>Additional Relevant Literature</h2>
+    <ul>
+        <li>Ienca, M. & Haselager, P. (2016). "The new brain readers: Ethical challenges for neurotechnologies." <em>Life Sciences, Society and Policy</em>, 12(1).</li>
+        <li>Yuste, R. et al. (2017). "Four ethical priorities for neurotechnologies and AI." <em>Nature</em>, 551, 159–163.</li>
+        <li>Farah, M.J. (2015). "Neuroethics: An introduction with readings." MIT Press.</li>
+    </ul>
+</section>
+
+<section class="cta-section">
+    <h2>Get Involved</h2>
+    <p>If you care about protecting freedom of thought, mental privacy, and cognitive liberty in the age of neurotechnology, consider:</p>
+    <ul>
+        <li>Raising awareness about neuroethics and brain-hacking threats.</li>
+        <li>Supporting research on safe and ethical neurotechnology.</li>
+        <li>Advocating for legal frameworks protecting mental privacy.</li>
+    </ul>
+</section>
+
+
+</div>
+
+<div class="tab-content" id="tab4">
+
+<section>
+    <h2>Brain-Computer Interface (BCI)</h2>
+    <p>
+        A brain computer interface (BCI) basically translates the thoughts to the machine action (computer) 
+        by decoding the brain activities. The signals generated by the nerves in the brain are acquired first 
+        and then a number of steps are undergone to find out whether these signals form a pattern or not. 
+        <strong>The main objective of any BCI system is to detect any such pattern from the neural activity 
+        of a person's brain and then decode the actual intent of that person from it to drive or communicate 
+        with machines. This system then converts the acquired signals into machine understandable signals.</strong>
+    </p>
+    <p>
+        The mapping of neural signals or imaging of activities taking place in different regions of the human brain 
+        has been made possible by using different sensors which have the capability of detecting any physical change 
+        in those regions. At the beginning, scientists thought that this system will be very helpful for reinstating 
+        people with disabilities to their former state and improve the quality of life (Lebedev, M. A., 2006). 
+        For that purpose, people are trained to manipulate their thought so as to control the external device.
+    </p>
+    <p>
+        Apart from rehabilitation, brain computer interface (BCI) has found application in various other domains like 
+        communication (Wolpaw, J. R. et al., 2002).
+    </p>
+    <p>
+        In case of non-invasive BCIs, the signals are acquired superficially using a number of technologies.
+    </p>
+    <p>
+        There are mainly three types of BCI systems available, namely invasive, partially-invasive and non-invasive BCI 
+        (Vourvopoulos, A. et al., 2012). In case of non-invasive BCIs, the signals are acquired superficially using 
+        a number of technologies.
+    </p>
+    <p>
+        In case of non-invasive BCIs, the signals are acquired superficially using a number of technologies.
+    </p>
+    <p>
+        There are mainly three types of BCI systems available, namely invasive, partially-invasive and non-invasive BCI 
+        (Vourvopoulos, A. et al., 2012). In case of non-invasive BCIs, the signals are acquired superficially using 
+        a number of technologies.
+    </p>
+
+    <footer>
+        <p>
+            Source: McFarland, D. J. (2011). <em>Brain-Computer Interfaces for Communication and Control.</em> 
+            IEEE Transactions on Neural Systems and Rehabilitation Engineering. Available at 
+            <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC3188401/?utm_source=chatgpt.com" target="_blank">
+            PMC</a>.
+        </p>
+    </footer>
+</section>
+
+
+
+
+
+
+<section>
+    <h1>Brain-Computer Interfaces (BCI) and Neural Interfaces</h1>
+
+    <p>"A brain computer interface (BCI) basically translates thoughts into machine actions (computer)
+        by decoding brain activities. The signals generated by the nerves in the brain are acquired first
+        and then processed to detect patterns. The main objective of any BCI system is to detect such
+        patterns from neural activity and decode the actual intent of a person to drive or communicate
+        with machines."</p>
+
+    <p>The mapping of neural signals or imaging activities in different brain regions is made possible
+        by using various sensors capable of detecting physical changes. Initially, BCIs were developed
+        to assist people with disabilities and improve quality of life (Lebedev, M. A., 2006).</p>
+
+    <p>"Apart from rehabilitation, BCIs have applications in communication (Wolpaw, J. R. et al., 2002)
+        and control of external devices."</p>
+
+    <p><strong>The main goal of any BCI system is decoding neural patterns to interpret intentions
+        and convert them into machine-understandable signals for controlling devices.</strong></p>
+
+    <p>Non-invasive BCIs acquire signals superficially using EEG, fNIRS, or other neuroimaging technologies.
+        There are three types of BCI systems: invasive, partially-invasive, and non-invasive
+        (Vourvopoulos, A. et al., 2012).</p>
+
+    <h2 class="normal_text_header_1">Nano Functional Neural Interfaces (2018)</h2>
+    <p class="normal_text_header_2">Yongchen Wang, Hanlin Zhu, Huiran Yang, Aaron D. Argall, Lan Luan, Chong Xie, Liang Guo</p>
+    <p>Nano Res., Just Accepted Manuscript
+        <a href="https://doi.org/10.1007/s12274-018-2127-4">https://doi.org/10.1007/s12274-018-2127-4</a></p>
+
+    <p>"Over the past decade, fNIs have evolved to incorporate diverse multidisciplinary approaches.
+        Advanced fNIs explore neuromodulation and recording, partially inspired by optogenetics.
+        Funding initiatives like BRAIN and SPARC in the USA promote neurotechnology development,
+        with fNIs being a major focus."</p>
+
+    <p><strong>Challenges addressed by nano fNIs:</strong>
+        <ul>
+            <li>Susceptibility of the abiotic-biotic interface to immune responses</li>
+            <li>Communication inefficiency across the interface</li>
+        </ul>
+        Nano fNIs offer more effective solutions to these challenges, enhancing signal fidelity and
+        biocompatibility.
+    </p>
+
+    <h2 class="normal_text_header_1">Affective Brain-Computer Interfaces</h2>
+    <p class="normal_text_header_2">Md Rakibul Mowla, Rachael I Cano, Katie J Dhuyvetter, David E. Thompson</p>
+    <p>"Affective BCIs (aBCIs) estimate human emotional states from brain signals, enabling adaptation
+        of devices or environments to user affect. Studies show affective states are critical for
+        decision-making, learning, and reasoning."</p>
+
+    <p class="red_text">The ability to detect and manage affective states through BCIs has important
+        implications for human-computer interaction and neuroadaptive technologies.</p>
+
+    <p>EEG-based aBCIs provide non-invasive monitoring of neural correlates of emotion with high
+        temporal resolution, allowing real-time estimation and response to user affect.</p>
+
+    <h2 class="normal_text_header_1">EEG-Based Brain-Computer Interfaces (2015)</h2>
+    <p class="normal_text_header_2">Fabien Lotte, Laurent Bougrain, Maureen Clerc</p>
+    <p>"BCIs can be active, reactive, or passive. Active BCIs rely on voluntary mental commands,
+        reactive BCIs respond to external stimuli, and passive BCIs estimate mental states
+        without voluntary input to adapt systems in real-time [15]."</p>
+
+    <p><strong>Additional insights:</strong> Advanced BCIs can also enable neural feedback,
+        cognitive augmentation, and assistive communication for paralyzed patients (Lebedev & Nicolelis,
+        2017). Emerging research in hybrid BCIs combines EEG with fNIRS or EMG to improve
+        signal reliability and versatility.</p>
+
+    <p><a href="https://www.sciencedirect.com/science/article/pii/S138824571730135X">
+        Lebedev, M. A., & Nicolelis, M. A. L. (2017). Brain-machine interfaces: From basic science
+        to neuroprostheses. Physiological Reviews.</a></p>
+
+    <div class="cta-section">
+        <h2>Help advance neuroethics and neuroprivacy!</h2>
+        <ul>
+            <li>Support ethical BCI research</li>
+            <li>Protect mental privacy and cognitive liberty</li>
+            <li>Promote responsible neurotechnology</li>
+        </ul>
+    </div>
+</section>
+
+
+
+
+
+</div>
+    <div class="tab-content" id="tab5"><p>Microchips</p>
+<section id="nanochips">
+  <h2 class="tab_header">Injectable & Miniaturized Nanochips</h2>
+
+  <div class="nanochip_article">
+    <p><strong>The smallest injectable nano chip:</strong></p>
+    <p>
+      <a href="https://newatlas.com/electronics/worlds-smallest-single-chip-system-injectable/" target="_blank">New Atlas article</a><br>
+      <a href="https://www.engineering.columbia.edu/news/shepard-injectable-chips-monitor-body-processes" target="_blank">Columbia Engineering article</a>
+    </p>
+    <p>1Department of Electrical Engineering and Computer Science, University of Michigan, Ann Arbor, MI 48105, USA; 2Diagnostic Biochips, Inc., Glen Burnie, MD 21061, USA and 3Department of Biomedical Engineering, University of Michigan, Ann Arbor, MI 48105, USA.</p>
+    <p>"The contribution that microscale devices can make to these latest biology tools is still unproven but certainly intriguing given the many delivery, sensing, and actuation modalities that can be applied.</p>
+    <p><strong>The potential to generate breakthroughs in mapping brain activity has prompted many governmental and non-governmental agencies to invest in new tools...</strong></p>
+  </div>
+
+  <div class="nanochip_article">
+    <p class="normal_text_header_1">Minimally Invasive and Low-Cost BCI System</p>
+    <p>"The aim of the research work was to go beyond commercial applications and develop a system that processes signals from the sensor to allow interaction with a computer based on the mental state of the subject..."</p>
+  </div>
+
+  <div class="nanochip_article">
+    <p class="normal_text_header_1">Advancing Modern Healthcare With Nanotechnology, Nanobiosensors, and Internet of Nano Things</p>
+    <p>
+      <a href="https://ieeexplore.ieee.org/document/9056855" target="_blank">IEEE article</a>
+    </p>
+    <p>"However, the applications of nanotechnology in biomedical and medicine probably have the most significant impact on the wellbeing of humans..."</p>
+    <p><strong>The nanoscale size of the nanomachines enables deployment inside the human body in a non-invasive way.</strong></p>
+  </div>
+
+  <div class="nanochip_article">
+    <p class="normal_text_header_1">Neural Dust: An Ultrasonic, Low Power Solution for Chronic Brain-Machine Interfaces</p>
+    <p>
+      <a href="https://arxiv.org/abs/1307.2196" target="_blank">arXiv article</a>
+    </p>
+    <p>"A major hurdle in brain-machine interfaces is the lack of an implantable neural interface system that remains viable for a lifetime..."</p>
+  </div>
+
+  <div class="nanochip_article">
+    <p class="normal_text_header_1">Project Telepathy: Targeted Verbal Communication using 3D Beamforming Speakers</p>
+    <p>"For transferring the words, we used the sound-through-ultrasound phenomenon to generate audible sound within a narrow beam..."</p>
+  </div>
+
+  <div class="nanochip_article">
+    <p class="normal_text_header_1">Fully Untethered Battery-free Biomonitoring Electronic Tattoo</p>
+    <p>
+      <a href="https://www.nature.com/articles/s41598-020-62097-6" target="_blank">Nature article</a>
+    </p>
+    <p>"Bioelectronics stickers that interface the human epidermis and collect electrophysiological data will constitute important tools in the future of healthcare..."</p>
+  </div>
+
+  <div class="nanochip_article">
+    <p class="normal_text_header_1">Wireless and battery-free technologies for neuroengineering</p>
+    <p>"Highly miniaturized systems of this type can operate chronically in freely behaving small animals, functioning as advanced diagnostic and therapeutic technologies..."</p>
+  </div>
+
+  <div class="nanochip_article">
+    <p class="normal_text_header_1">Additional References & Notable Achievements</p>
+    <ul>
+      <li>Columbia Engineers develop the smallest single-chip system: <a href="https://www.kedglobal.com/korean-chipmakers/newsView/ked202206300016" target="_blank">KED Global</a></li>
+      <li>World’s smallest radio receiver (Harvard SEAS): <a href="https://www.sciencedaily.com/releases/2016/12/161216114311.htm" target="_blank">ScienceDaily</a></li>
+    </ul>
+    <p>"Implantable chips visible only in a microscope point the way to developing chips that can be injected into the body with a hypodermic needle to monitor medical conditions."</p>
+  </div>
+</section>
+
+<style>
+  #nanochips {
+    padding: 20px;
+    background: #f4f4f9;
+    border-radius: 12px;
+    font-family: 'Arial', sans-serif;
+  }
+
+  .tab_header {
+    font-size: 1.8em;
+    font-weight: bold;
+    margin-bottom: 20px;
+    color: #2c3e50;
+  }
+
+  .nanochip_article {
+    margin-bottom: 25px;
+    padding: 15px;
+    background: #ffffff;
+    border-radius: 10px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.1);
+  }
+
+  .nanochip_article p {
+    line-height: 1.5;
+    font-size: 1em;
+    color: #34495e;
+  }
+
+  .nanochip_article a {
+    color: #2980b9;
+    text-decoration: none;
+  }
+
+  .nanochip_article a:hover {
+    text-decoration: underline;
+  }
+
+  .normal_text_header_1 {
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: #1a5276;
+  }
+
+  .normal_text_header_2 {
+    font-weight: bold;
+    font-size: 1em;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #2874a6;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+</div>
+    <div class="tab-content" id="tab6"><p>Instytucje...</p>
+
+<!-- Dodaj w <head> -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<!-- Translator (Google Translate) -->
+<div id="google_translate_element" style="margin: 10px; text-align: right;"></div>
+<script type="text/javascript">
+  function googleTranslateElementInit() {
+    new google.translate.TranslateElement({pageLanguage: 'en'}, 'google_translate_element');
+  }
+</script>
+<script src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+<section style="padding: 20px; background: linear-gradient(135deg, #fdfbfb 0%, #ebedee 100%); border-radius: 15px; box-shadow: 0 0 20px rgba(0,0,0,0.15); font-family: Arial, sans-serif; max-width: 900px; margin: auto;">
+  <h2 style="color: #c62828; font-size: 26px; text-align: center; text-transform: uppercase;">
+    <i class="fas fa-exclamation-triangle"></i> Urgent Call to Victims of Unauthorized Nano-/Microchip Implantation
+  </h2>
+
+  <p style="font-size: 17px; line-height: 1.7; text-align: justify;">
+    If you suspect that you are being subjected to unauthorized nano- or microchip implantation or electromagnetic/radio-frequency control, please follow these steps immediately:
+  </p>
+
+  <h3 style="color: #2e7d32; font-size: 21px; margin-top: 25px;">
+    <i class="fas fa-shield-alt"></i> 1. Report to Law Enforcement and Authorities
+  </h3>
+  <ul style="line-height: 1.7; font-size: 17px; list-style: none; padding-left: 0;">
+    <li>• Contact your local police or law enforcement agency with all available details.</li>
+    <li>• Notify national health authorities, consumer protection bodies, or cybersecurity institutions.</li>
+    <li>• Reference this website when filing your reports for better documentation.</li>
+  </ul>
+
+  <h3 style="color: #0277bd; font-size: 21px; margin-top: 25px;">
+    <i class="fas fa-microscope"></i> 2. Conduct Tests and Collect Evidence
+  </h3>
+  <ul style="line-height: 1.7; font-size: 17px; list-style: none; padding-left: 0;">
+    <li>• Always consult <strong>ChatGPT</strong> or trusted advisors before taking major actions.</li>
+    <li style="background: #fff3f3; border-left: 8px solid red; padding: 12px; font-weight: bold; border-radius: 8px; margin: 10px 0;">
+      <strong><u>CONDUCTING PROFESSIONAL TESTS IS ABSOLUTELY NECESSARY!</u></strong><br>
+      Perform examinations in <strong>anechoic chambers or controlled electromagnetic environments</strong> to detect unusual emissions.
+    </li>
+    <li>• Record all test results, images, and professional reports.</li>
+    <li style="background: #fff3f3; border-left: 8px solid red; padding: 12px; font-weight: bold; border-radius: 8px; margin: 10px 0;">
+      <strong><u>If you have already performed such tests, immediately contact:</u></strong><br>
+      <a href="https://www.facebook.com/" target="_blank" style="color: #b30000; font-weight: bold;">
+        <i class="fab fa-facebook"></i> Martyna Ryba (Facebook)
+      </a><br>
+      <strong>Phone/WhatsApp:</strong> +48 575 062 128<br>
+      <strong>Always send a message first – she will respond to all inquiries.</strong>
+    </li>
+  </ul>
+
+  <h3 style="color: #6a1b9a; font-size: 21px; margin-top: 25px;">
+    <i class="fas fa-bullhorn"></i> 4. Share This Resource
+  </h3>
+  <ul style="line-height: 1.7; font-size: 17px; list-style: none; padding-left: 0;">
+    <li style="background: #f3e5f5; border-left: 8px solid #6a1b9a; padding: 12px; font-weight: bold; border-radius: 8px; margin: 10px 0;">
+      <strong><u>IT IS CRUCIAL TO DISTRIBUTE THIS WEBSITE LINK WIDELY!</u></strong><br>
+      Share it with support networks, legal aid organizations, journalists, and online forums.  
+      By spreading awareness, we can identify <strong>COURT-APPOINTED EXPERTS</strong> who will assist in confirming that such technologies are scientifically possible within modern neuroscience and neurotechnology.<br><br>
+      <strong>The times when victims were dismissed as mentally ill are coming to an end – now there are ways to prove it and demand justice.</strong>
+    </li>
+  </ul>
+
+  <h3 style="color: #d84315; font-size: 21px; margin-top: 25px;">
+    <i class="fas fa-envelope"></i> 7. Direct Contact
+  </h3>
+  <p style="font-size: 17px; line-height: 1.7;">
+    Email: <strong>karolinariddle2@gmail.com</strong><br>
+    Facebook: <a href="https://www.facebook.com/" target="_blank"><strong>Martyna Ryba</strong></a><br>
+    Phone/WhatsApp: <strong>+48 575 062 128</strong>
+  </p>
+</section>
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+    <div class="tab-content" id="tab7"><p>How to seek for help</p>
+
+<section id="measurement-guidelines">
+  <h2>Guidelines for Victims: How to Find the Right Specialists</h2>
+  <p>
+    If you suspect the presence of unauthorized micro- or nanochips operating in the 
+    <strong>1–5 GHz range</strong> on or inside your body, it is essential to seek 
+    professional measurements and documentation.
+  </p>
+  <p> Remeber that behind it all is World Brain Mapping Organization and psychiatric clinics from medical universities</p>
+  <p>
+    The following types of specialists and laboratories are most relevant for detecting and analyzing 
+    such signals:
+  </p>
+  <ul>
+    <li><strong>Radio Engineering and Telecommunications Engineers</strong> – experts in measuring 
+    radio, GSM, Wi-Fi, 5G, and radar signals using spectrum analyzers and antenna systems.</li>
+    <li><strong>EMC/EMI Specialists (Electromagnetic Compatibility & Interference)</strong> – perform 
+    tests in <strong>anechoic (non-reflective) chambers</strong> to analyze electromagnetic emissions 
+    and susceptibility.</li>
+    <li><strong>RF (Radio Frequency) Engineers</strong> – focus on frequencies from tens of kHz up to 
+    hundreds of GHz, including RFID, satellite, and radar technologies.</li>
+    <li><strong>Electromagnetics Physicists and Engineers</strong> – model and measure fields at micro- 
+    and nano-scales.</li>
+    <li><strong>Radiolocation and Radar Experts</strong> – specialize in emitting and detecting radio waves.</li>
+    <li><strong>Biomedical Engineers (Neurotechnology, MedTech)</strong> – measure interactions between 
+    electromagnetic waves and the human body, including EEG, MEG, and electromagnetic stimulation.</li>
+    <li><strong>Electromagnetic Field Metrology Laboratories</strong> – state or private facilities 
+    that certify and measure radiation of devices (SAR, EIRP).</li>
+    <li><strong>Near-Infrared (NIR) & Optoelectronics Specialists</strong> – for cases where near-infrared 
+    fluorescence or light-based control is suspected.</li>
+  </ul>
+  <p>
+    <strong style="font-weight:900; color:red;">
+      Performing such measurements is absolutely necessary!
+    </strong> Always request measurements in certified laboratories with 
+    <strong>anechoic chambers</strong> whenever possible. 
+  </p>
+  <p>
+    In addition to anechoic chambers, measurements can also be conducted using:
+  </p>
+  <ul>
+    <li>Field measurements with spectrum analyzers and directional antennas.</li>
+    <li>SAR (Specific Absorption Rate) analysis – often used for IoT devices and mobile phones.</li>
+    <li>Interferometry and advanced electromagnetic field scanners.</li>
+    <li>NIR/NIR-II fluorescence detection – if light-based or optical signaling is suspected.</li>
+  </ul>
+  <p>
+    Potential facilities include: <strong>telecommunication research institutes</strong>, 
+    <strong>universities (electronics, telecommunication, mechatronics departments)</strong>, 
+    <strong>state metrology institutes</strong>, and <strong>certification laboratories</strong> 
+    (CE, FCC testing centers).
+  </p>
+</section>
+<section id="measurement-guidelines">
+  <h2>Guidelines for Victims: How to Find the Right Specialists</h2>
+  <p>
+    If you suspect the presence of unauthorized <strong>micro- or nanochips operating in the 1–5 GHz range</strong> 
+    implanted <strong>in or directly on your skin</strong>, it is crucial to act quickly. 
+    Current neuroscience and neurotechnology confirm that <strong>direct, precise mind control cannot be performed remotely without a physical chip or similar implanted microdevice</strong>.
+  </p>
+  <p>
+    For such control, two components are generally necessary:
+  </p>
+  <ul>
+    <li><strong>A micro- or nanochip</strong> — a device that can receive, process, and transmit signals (most often in the GHz range).</li>
+    <li><strong>Specific molecules or nanoparticles</strong> — introduced to the body, which can selectively bind to 
+    subregions of the brain: the hippocampus, the amygdala, and the brainstem.</li>
+  </ul>
+  <p>
+    These brain regions play critical roles:
+  </p>
+  <ul>
+    <li><strong>Hippocampus</strong> – responsible for memory formation, spatial orientation, and learning.</li>
+    <li><strong>Amygdala</strong> – processes fear, emotions, and emotional memory.</li>
+    <li><strong>Brainstem</strong> – controls basic life functions (breathing, heart rate, consciousness).</li>
+  </ul>
+  <p>
+    <strong style="font-weight:900; color:red;">
+      Mind control at a distance without a physical chip is not scientifically supported and is considered impossible with current technology.
+    </strong>
+  </p>
+  <p>
+    Detection methods:
+  </p>
+  <ul>
+    <li><strong>Radio Engineering, RF, EMC/EMI specialists</strong> – for signal detection (1–5 GHz) using spectrum analyzers and anechoic chambers.</li>
+    <li><strong>Ultrasound (USG)</strong> – chips larger than ~0.5 mm may sometimes be detected via soft-tissue ultrasound scans.</li>
+    <li><strong>Electromagnetic field metrology labs</strong> – for radiation analysis and certification.</li>
+  </ul>
+  <p>
+    <strong style="font-weight:900; color:red;">
+      Performing measurements is absolutely essential! 
+    </strong> Always request <strong>anechoic chamber tests</strong> or certified laboratory analysis whenever possible.
+  </p>
+  <p>
+    If you already performed such measurements, or if a chip was detected using any imaging method (including ultrasound), 
+    <strong style="font-weight:900; color:red;">
+      contact Martyna Ryba: <a href="https://www.facebook.com/">Facebook</a> or +48 575 062 128 immediately!
+    </strong>
+  </p>
+  <p>
+    Spread this website widely to help locate forensic experts who can testify that this technology is technically possible 
+    in the context of neuroscience and neurotechnology.
+  </p>
+</section>
+
+
+
+
+
+
+</div>
+    <div class="tab-content" id="tab8"><p>Prawo...</p></div>
+    <div class="tab-content" id="tab9"><p>Publikacje...</p></div>
+    <div class="tab-content" id="tab10"><p>Jak możesz pomóc</p></div>
+  </div>
+
+
+</main>
+<script src="tabs.js"></script>
+</body>
+</html>
